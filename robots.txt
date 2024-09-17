@@ -1,0 +1,10 @@
+User-agent: *
+Allow: *.css
+Allow: *.js
+Allow: *.jpg
+Allow: *.png
+Allow: *.gif
+Disallow: /manager/
+
+Host: https://transitcaptioning.com
+Sitemap: https://transitcaptioning.com/sitemap.xml
